@@ -1,16 +1,20 @@
 # World Risk Index
 
+## About the Dataset
+
 This dataset reports each country’s disaster risks annually. A disaster risk is a country more likely for 
 “potential loss of life, injury or destroyed or damaged assets” due to “system, society or a community”.1 
 The world risk index is a geometric mean of exposure and vulnerability. Exposure is the exposure to 
 natural disasters that a population faces such as drought, earthquakes, tsunamis, etc. Vulnerability is 
 composed of susceptibility coping, and adaptation.   
-  - Susceptibility are the conditions of a society such as: socio-economic development, 
+  - **Susceptibility** are the conditions of a society such as: socio-economic development, 
 deprivation, disparities, disease and epidemic exposure within a country. A large susceptibility 
 increases the likelihood that populations will be harmed in a disaster event. 
-  - Coping involves how a society can counteract disaster events.  
-  - Adaptation is the long-term processes put in place to avoid significant impacts from a disaster 
+  - **Coping** involves how a society can counteract disaster events.  
+  - **Adaptation** is the long-term processes put in place to avoid significant impacts from a disaster 
 event.
+
+## Objective  
 
 The aim is to complete a global level analysis to determine where relief may be needed and to determine the 
 types of risk management that would be effective to help people avoid potentially devastating 
