@@ -19,7 +19,14 @@ event.
 The aim is to complete a global level analysis to determine where relief may be needed and to determine the 
 types of risk management that would be effective to help people avoid potentially devastating 
 impacts of disaster. Details about the columns as well as data consistency can be viewed within 
-the jupyter notebook
+the jupyter notebook.
+
+## Methodology
+
+1. **Data Preparation**: Cleaned data by renaming columns, checking for missing data and duplicates. Cleaned data set yielded 1,915 WRI, Exposure, Vulnerability, Lack of Coping, Susceptibility and Lack of Adaptation level observations for 181 countries over 11 years (2011 – 2021).
+2. **Regression and Cluster Analysis**: Use python machine learning commands (LinearRegression(), kmeans()) to analyze patterns, predictions and trends across various WRI features.
+3. **Reporting**: Storytelling by Tableau visualizations such as pie charts, barcharts, boxplots, time-series, maps and butterfly charts. Defined important variables in dataset, visualized key points, reported a final hypothesis and gave recommendations for reducing risk worldwide.
+
 
 # Tableau 
 
